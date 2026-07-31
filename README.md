@@ -64,7 +64,7 @@ Also: flashes firmware, roots devices, I love freedom
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=9B30FF)
 ![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=9B30FF)
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=9B30FF)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=9B30FF)
+![C+](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=csharp&logoColor=9B30FF)
 
 </div>
 
