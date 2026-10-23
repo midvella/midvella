@@ -17,7 +17,7 @@
 class midvella:
     def __init__(self):
         self.alias      = "midvella"
-        self.fields     = ["Cybersecurity", "Software Dev", "AI-assisted chaos", "Mobile/rooting", "Firmware flashing"]
+        self.fields     = ["Cybersecurity", "OpenSource Lover Dev", "AI-assisted chaos", "Mobile/rooting", "Firmware flashing"]
         self.mode       = ["Vibe Coder", "Real Coder", "Root user"]
         self.mindset    = "break it → understand it → build something darker"
         self.currently  = "exploring the edges of what shouldn't be possible"
