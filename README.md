@@ -76,7 +76,7 @@ Also: flashes firmware, roots devices, I love freedom
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=9B30FF)
 ![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=9B30FF)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=9B30FF)
 </div>
 
 ---
