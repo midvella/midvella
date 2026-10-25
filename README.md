@@ -64,7 +64,7 @@ Also: flashes firmware, roots devices, I love freedom
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=9B30FF)
 ![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=9B30FF)
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=9B30FF)
-![Kotlin](https://img.shields.io/badge/kotlin-0d0d0d?style=for-the-badge&logo=c&logoColor=9B30FF)
+![Kotlin](https://img.shields.io/badge/kotlin-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=9B30FF)
 
 </div>
 
@@ -76,7 +76,7 @@ Also: flashes firmware, roots devices, I love freedom
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=9B30FF)
 ![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=9B30FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=9B30FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=9B30FF)
 </div>
 
 ---
@@ -99,7 +99,9 @@ Also: flashes firmware, roots devices, I love freedom
 ### 🔓 Device & Toolkit
 
 <div align="center">
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=nmap&logoColor=9B30FF)
+
+![Hydra](https://img.shields.io/badge/Hydra-0d0d0d?style=for-the-badge&logo=hydra&logoColor=9B30FF)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=9B30FF)
 ![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=9B30FF)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=9B30FF)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d0d0d?style=for-the-badge&logo=airplayaudio&logoColor=9B30FF)
@@ -115,7 +117,7 @@ Also: flashes firmware, roots devices, I love freedom
 ![Gradle](https://img.shields.io/badge/Gradle-0d0d0d?style=for-the-badge&logo=gradle&logoColor=9B30FF)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=9B30FF)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0d0d0d?style=for-the-badge&logo=windows-powershell&logoColor=9B30FF)
-![CMD](https://img.shields.io/badge/CMD-0d0d0d?style=for-the-badge&logo=windows&logoColor=9B30FF)
+![CMD](https://img.shields.io/badge/CMD-0d0d0d?style=for-the-badge&logo=cmd&logoColor=9B30FF)
 
 
 </div>
