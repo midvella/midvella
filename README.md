@@ -99,7 +99,7 @@ Also: flashes firmware, roots devices, I love freedom
 ### 🔓 Device & Toolkit
 
 <div align="center">
-
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=nmap&logoColor=9B30FF)
 ![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=9B30FF)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=9B30FF)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d0d0d?style=for-the-badge&logo=airplayaudio&logoColor=9B30FF)
